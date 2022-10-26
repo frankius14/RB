@@ -1,0 +1,18 @@
+{
+    "language": "en",
+    "prefix": "!",
+    "muteInGameBotMessages": false,
+    "trademark": "rustPlusPlus",
+    "inGameCommandsEnabled": true,
+    "fcmAlarmNotificationEnabled": false,
+    "fcmAlarmNotificationEveryone": false,
+    "smartAlarmNotifyInGame": true,
+    "leaderCommandEnabled": true,
+    "trackerNotifyAllOffline": true,
+    "trackerNotifyAnyOnline": false,
+    "commandDelay": 0,
+    "connectionNotify": false,
+    "afkNotify": false,
+    "deathNotify": false,
+    "mapWipeNotifyEveryone": false
+}
